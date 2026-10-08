@@ -1,0 +1,11 @@
+# See external/strictfmt/docs/format.md for details
+---
+ColumnLimit: 120
+IndentWidth: 4
+TabWidth: 4
+
+MacroCategories:
+  ExpressionContinuationMacros:
+    - BOOST_PFR_CORE_NAME_PARSING
+  DeclarationModifierMacros:
+    - BOOST_PFR_MAYBE_UNUSED
